@@ -1,4 +1,4 @@
-# Picture uploaded web app
+# Picture sharing web application.
 
 Allows the user to:
 
