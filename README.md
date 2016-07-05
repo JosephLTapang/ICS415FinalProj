@@ -1,4 +1,9 @@
-# ICS415FinalProj
-Final project: Create a web app using meteor.
+# Picture uploaded web app
 
-App description: Basic image upload app with guest and user account. 
+Allows the user to:
+
+- Create accounts
+- Browse as guest
+- Upload images
+- View images
+- Navigate using a nav bar.
